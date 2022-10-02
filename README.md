@@ -1,7 +1,4 @@
-# ewallet
-An App that enables user send money and manage user access
-
-# YOUR PROJECT TITLE
+# Simple E-Wallet App
 #### Video Demo:  https://youtu.be/oNR27nRRO7M
 #### Description:
-TODO
+An App that enables user send money and manage user access
